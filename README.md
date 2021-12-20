@@ -1,2 +1,2 @@
 # KMeansExplore
-Extends the functionality of the KMeans sci-kit learn class to allow for static centroid points.
+Extends the functionality of the KMeans algorithm to allow for static centroid points.
